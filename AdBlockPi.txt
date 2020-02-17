@@ -1,31 +1,23 @@
-# AdBlockPI
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
 #
 # BAD SITES START HERE
 #
-criteo.net
-cleverpush.com
-atonato.de
-doubleclick.net
-geoedge.be
-hs-data.com
-ioam.de
-nativendo.de
-npttech.com
-outbrain.com
-tinypass.com
-yieldlove.com
-connect.facebook.net
-www.e-pages.dk
-www.ikz-online.de
-www.wp.de
-www.wr.de
-akamaiedge.net
-icony.com
-icony-hosting.de
-(^|\.)akamai\.net$
-.*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
-([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
-(\w+.)*(akamai)(.net)
+0.0.0.0 criteo.net
+0.0.0.0 cleverpush.com
+0.0.0.0 atonato.de
+0.0.0.0 doubleclick.net
+0.0.0.0 geoedge.be
+0.0.0.0 hs-data.com
+0.0.0.0 ioam.de
+0.0.0.0 nativendo.de
+0.0.0.0 npttech.com
+0.0.0.0 outbrain.com
+0.0.0.0 tinypass.com
+0.0.0.0 yieldlove.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.e-pages.dk
+0.0.0.0 www.ikz-online.de
+0.0.0.0 www.wp.de
+0.0.0.0 www.wr.de
+0.0.0.0 akamaiedge.net
+0.0.0.0 icony.com
+0.0.0.0 icony-hosting.de
