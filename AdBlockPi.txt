@@ -28,3 +28,4 @@ icony-hosting.de
 (^|\.)akamai\.net$
 .*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
 ([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
+(\w+.)*(akamai)(.net)
