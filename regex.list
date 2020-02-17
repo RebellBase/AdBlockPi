@@ -6,8 +6,8 @@
 ([a-zA-Z0-9\-\._]{0,256})(akamai)(\.net)
 ([a-zA-Z0-9\-\._]{0,256})(akamaiedge)(\.net)
 ([a-zA-Z0-9\-\._]{0,256})(icony-hosting)(\.de)
-
-
-
-
+([a-zA-Z0-9\-\._]{0,256})(funkedigital)(\.de)
+([a-zA-Z0-9\-\._]{0,256})(ikz-online)(\.de)
+([a-zA-Z0-9\-\._]{0,256})(e-pages)(\.dk)
+([a-zA-Z0-9\-\._]{0,256})(derwesten)(\.de)
 
