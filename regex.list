@@ -2,14 +2,13 @@
 .*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
 
 # Sperrt alle URLs zu "abc.xyz"
-(akamai)(\.net)
-(akamaiedge)(\.net)
-(icony-hosting)(\.de)
-(funkedigital)(\.de)
-(ikz-online)(\.de)
-(e-pages)(\.dk)
-(hs-data)(\.com)
-(files1.derwesten)(\.de)
-(img.waz)(\.de)
-(icony)(\.com)
-hs-data.com
+(^|\.)akamai\.net$
+(^|\.)akamaiedge\.net$
+(^|\.)icony-hosting\.de$
+(^|\.)funkedigital\.de$
+(^|\.)ikz-online\.de$
+(^|\.)e-pages\.dk$
+(^|\.)files1\.derwesten\.de$
+(^|\.)img\.waz\.de$
+(^|\.)icony\.com$
+(^|\.)s\.hs-data\.com$
