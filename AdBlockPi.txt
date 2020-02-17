@@ -21,3 +21,4 @@
 0.0.0.0 akamaiedge.net
 0.0.0.0 icony.com
 0.0.0.0 icony-hosting.de
+0.0.0.0 s.hs-data.com
