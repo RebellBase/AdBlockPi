@@ -23,5 +23,5 @@ www.e-pages.dk
 www.ikz-online.de
 www.wp.de
 www.wr.de
-(^|\.)akamaiedge\.net$
-(^|\.)icony\.com$
+akamaiedge.net
+icony.com
