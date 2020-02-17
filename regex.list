@@ -2,16 +2,14 @@
 .*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
 
 # Sperrt alle URLs zu "abc.xyz"
-([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
-([a-zA-Z0-9\-\._]{0,256})(akamai)(\.net)
-([a-zA-Z0-9\-\._]{0,256})(akamaiedge)(\.net)
-([a-zA-Z0-9\-\._]{0,256})(icony-hosting)(\.de)
-([a-zA-Z0-9\-\._]{0,256})(funkedigital)(\.de)
-([a-zA-Z0-9\-\._]{0,256})(ikz-online)(\.de)
-([a-zA-Z0-9\-\._]{0,256})(e-pages)(\.dk)
-([a-zA-Z0-9\-\._]{0,256})(derwesten)(\.de)
-([a-zA-Z0-9\-\._]{0,256})(hs-data)(\.com)
-([a-zA-Z0-9\-\._]{0,256})(files1.derwesten)(\.de)
-([a-zA-Z0-9\-\._]{0,256})(img.waz)(\.de)
-([a-zA-Z0-9\-\._]{0,256})(icony)(\.com)
-(^|\.)hs-data\.com$
+(akamai)(\.net)
+(akamaiedge)(\.net)
+(icony-hosting)(\.de)
+(funkedigital)(\.de)
+(ikz-online)(\.de)
+(e-pages)(\.dk)
+(hs-data)(\.com)
+(files1.derwesten)(\.de)
+(img.waz)(\.de)
+(icony)(\.com)
+
