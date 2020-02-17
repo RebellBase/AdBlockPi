@@ -1,7 +1,7 @@
 # Sperrt alle Punycode-Domains:
 .*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
 
-# Sperrt alle URLs zu "sendgrid.net"
+# Sperrt alle URLs zu "abc.xyz"
 ([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
 ([a-zA-Z0-9\-\._]{0,256})(akamai)(\.net)
 ([a-zA-Z0-9\-\._]{0,256})(akamaiedge)(\.net)
