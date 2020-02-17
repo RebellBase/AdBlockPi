@@ -1,0 +1,27 @@
+# AdBlockPI
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+criteo.net
+cleverpush.com
+atonato.de
+doubleclick.net
+geoedge.be
+hs-data.com
+ioam.de
+nativendo.de
+npttech.com
+outbrain.com
+tinypass.com
+yieldlove.com
+img.waz.de
+connect.facebook.net
+www.e-pages.dk
+www.ikz-online.de
+www.wp.de
+www.wr.de
+(^|\.)akamaiedge\.net$
+(^|\.)icony\.com$
