@@ -25,7 +25,6 @@ www.wr.de
 akamaiedge.net
 icony.com
 icony-hosting.de
-akamai.net
-img.waz.de
-files1.derwesten.de
-a1089.dscd.akamai.net
+(^|\.)akamai\.net$
+.*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
+([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
