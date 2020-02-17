@@ -1,24 +1,24 @@
 #
 # BAD SITES START HERE
 #
-0.0.0.0 criteo.net
-0.0.0.0 cleverpush.com
-0.0.0.0 atonato.de
-0.0.0.0 doubleclick.net
-0.0.0.0 geoedge.be
-0.0.0.0 hs-data.com
-0.0.0.0 ioam.de
-0.0.0.0 nativendo.de
-0.0.0.0 npttech.com
-0.0.0.0 outbrain.com
-0.0.0.0 tinypass.com
-0.0.0.0 yieldlove.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 www.e-pages.dk
-0.0.0.0 ikz-online.de
-0.0.0.0 wp.de
-0.0.0.0 wr.de
-0.0.0.0 akamaiedge.net
-0.0.0.0 icony.com
-0.0.0.0 icony-hosting.de
-0.0.0.0 s.hs-data.com
+criteo.net
+cleverpush.com
+atonato.de
+doubleclick.net
+geoedge.be
+hs-data.com
+ioam.de
+nativendo.de
+npttech.com
+outbrain.com
+tinypass.com
+yieldlove.com
+connect.facebook.net
+www.e-pages.dk
+ikz-online.de
+wp.de
+wr.de
+akamaiedge.net
+icony.com
+icony-hosting.de
+s.hs-data.com
