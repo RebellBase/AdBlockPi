@@ -15,9 +15,9 @@
 0.0.0.0 yieldlove.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 www.e-pages.dk
-0.0.0.0 www.ikz-online.de
-0.0.0.0 www.wp.de
-0.0.0.0 www.wr.de
+0.0.0.0 ikz-online.de
+0.0.0.0 wp.de
+0.0.0.0 wr.de
 0.0.0.0 akamaiedge.net
 0.0.0.0 icony.com
 0.0.0.0 icony-hosting.de
