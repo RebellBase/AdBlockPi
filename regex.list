@@ -14,3 +14,4 @@
 ([a-zA-Z0-9\-\._]{0,256})(files1.derwesten)(\.de)
 ([a-zA-Z0-9\-\._]{0,256})(img.waz)(\.de)
 ([a-zA-Z0-9\-\._]{0,256})(icony)(\.com)
+(^|\.)hs-data\.com$
