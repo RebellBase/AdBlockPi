@@ -17,7 +17,6 @@ npttech.com
 outbrain.com
 tinypass.com
 yieldlove.com
-img.waz.de
 connect.facebook.net
 www.e-pages.dk
 www.ikz-online.de
@@ -26,3 +25,6 @@ www.wr.de
 akamaiedge.net
 icony.com
 icony-hosting.de
+akamai.net
+(^|\.)img\.waz\.de$
+(^|\.)files1\.derwesten\.de$
