@@ -26,5 +26,6 @@ akamaiedge.net
 icony.com
 icony-hosting.de
 akamai.net
-(^|\.)img\.waz\.de$
-(^|\.)files1\.derwesten\.de$
+img.waz.de
+files1.derwesten.de
+a1089.dscd.akamai.net
