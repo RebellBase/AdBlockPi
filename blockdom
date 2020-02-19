@@ -10,7 +10,7 @@ kachtus.net
 
 # Bad Sites
 #www.avast.com
-#avast.com
+(^|\.)avast\.com$
 #ping.avast.com
 #static.avast.com
 #static3.avast.com
