@@ -9,24 +9,24 @@ linkcrypt.ws
 kachtus.net
 
 # Bad Sites
-www.avast.com
-avast.com
-ping.avast.com
-static.avast.com
-static3.avast.com
-ncc.avast.com
+#www.avast.com
+#avast.com
+#ping.avast.com
+#static.avast.com
+#static3.avast.com
+#ncc.avast.com
+.*(avast)[.]com$
 
 # TEST
-cdn.icony-hosting.de
+.*(icony-hosting)[.]de$
 connect.facebook.net
 sportdaten.waz.de
 img.waz.de
 js.icony.com
 ocsp.pki.goog
 ocsp.sca1b.amazontrust.com
-s.hs-data.com
+.*(hs-data)[.]com$
 speedproxy.cloud.funkedigital.de
-static.icony-hosting.de
 www.e-pages.dk
 www.ikz-online.de
 www.wp.de
