@@ -1,1 +1,3 @@
 avast.com
+(^|\.)avast\.com$
+.*(avast)[.]com$
