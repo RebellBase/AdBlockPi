@@ -50,7 +50,7 @@ service.insttranslate.com
 www.gstatic.com
 fonts.gstatic.com
 mtalk.google.com
-sitecheck.opera.com
+#sitecheck.opera.com
 
 # Brauner Dreck
 www.breitbart.com
