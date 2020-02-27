@@ -20,13 +20,38 @@ genuine.adobe.com
 lcs-cops.adobe.io
 mtalk.google.com
 smartscreen-prod.microsoft.com
-
-# TEST
 connect.facebook.net
 login.live.com
 merchandise.opera-api.com
 service.insttranslate.com
 www.xyaz.cn
+canonicalizer.ucsuri.tcs
+checkappexec.microsoft.com
+t.checkappexec.microsoft.com # erhobene Telemetriedaten bei jeder Programminstallation inkl. Aufnahme was installiert wird
+nav.smartscreen.microsoft.com # Browsertelemetrie unter /windows/browser/edge/telemetry
+europe.smartscreen-prod.microsoft.com
+brazil.smartscreen-prod.microsoft.com
+unitedstates.smartscreen-prod.microsoft.com
+unitedkingdom.smartscreen-prod.microsoft.com
+sfdataservice.microsoft.com
+e16646.g.akamaiedge.net
+wd-prod-ss-eu-north-1-fe.northeurope.cloudapp.azure.com
+wd-prod-ss-eu-north-2-fe.northeurope.cloudapp.azure.com
+wd-prod-ss-eu-west-1-fe.westeurope.cloudapp.azure.com
+wd-prod-ss-eu-west-2-fe.westeurope.cloudapp.azure.com
+telemetry.urs.microsoft.com
+w.apprep.smartscreen.microsoft.com
+urs.microsoft.com
+c.urs.microsoft.com
+bf.smartscreen.microsoft.com
+cscasha2.ocsp-certum.com
+subca.ocsp-certum.com
+usseu1northprod.blob.core.windows.net
+sfdataservice.microsoft.com
+23.78.19.39
+e16646.g.akamaiedge.net
+
+
 
 # Brauner Dreck
 www.breitbart.com
